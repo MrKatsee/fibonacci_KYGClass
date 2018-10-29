@@ -1,4 +1,5 @@
-﻿  Source.c
-c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\project14\project14\source.c(19): warning C4013: 'system' undefined; assuming extern returning int
-  Project14.vcxproj -> c:\users\ghtjd\onedrive\문서\visual studio 2015\Projects\Project14\Debug\Project14.exe
-  Project14.vcxproj -> c:\users\ghtjd\onedrive\문서\visual studio 2015\Projects\Project14\Debug\Project14.pdb (Partial PDB)
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project14.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  20185784.c
+c:\users\ghtjd\onedrive\문서\fibonacci_kygclass\project14\20185784.c(19): warning C4013: 'system' undefined; assuming extern returning int
+  Project14.vcxproj -> C:\Users\ghtjd\OneDrive\문서\fibonacci_KYGClass\Debug\fibonacci_KYGClass.exe
+  Project14.vcxproj -> C:\Users\ghtjd\OneDrive\문서\fibonacci_KYGClass\Debug\fibonacci_KYGClass.pdb (Partial PDB)

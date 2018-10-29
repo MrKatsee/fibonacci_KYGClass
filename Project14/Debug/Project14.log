@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\project14\project14\source.c(19): warning C4013: 'system' undefined; assuming extern returning int
+  Project14.vcxproj -> c:\users\ghtjd\onedrive\문서\visual studio 2015\Projects\Project14\Debug\Project14.exe
+  Project14.vcxproj -> c:\users\ghtjd\onedrive\문서\visual studio 2015\Projects\Project14\Debug\Project14.pdb (Partial PDB)
